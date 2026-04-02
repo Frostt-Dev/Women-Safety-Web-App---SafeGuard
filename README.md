@@ -193,6 +193,6 @@ This app is currently **frontend-only** using mock data. All backend integration
 
 This project is for **educational and personal use**.
 
----
 
-<p align="center"><b>Built with ❤️ for women's safety</b></p>
+
+
